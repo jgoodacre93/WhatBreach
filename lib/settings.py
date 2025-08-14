@@ -12,7 +12,7 @@ from hookers.pastebin_hook import PastebinRawHook
 
 
 # version number
-VERSION = "0.2.7"
+VERSION = "0.3.0"
 
 # sexy banner
 BANNER = """{color_scheme_1}
